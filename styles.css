@@ -45,7 +45,7 @@ p{
 
 button.normal{
     font-size: 14px;
-    padding: 15px 30px;
+    padding: 12px 20px;
     color: #000;
     background-color: #fff;
     border-radius: 4px;
@@ -58,7 +58,7 @@ button.normal{
 button.white{
     font-size: 13px;
     font-weight: 600;
-    padding: 11px 18px;
+    padding: 10px 16px;
     color: #fff;
     background-color: transparent;
     border-radius: 4px;
@@ -688,7 +688,7 @@ font-size: 26px;
 
 @media (max-width:1299px){
     .section-p1 {
-        padding: 40px 500px;
+        padding: 40px 20px;
         margin: 5px;
     }
 
@@ -699,9 +699,9 @@ font-size: 26px;
         justify-content: flex-start;
         position: fixed;
         top: 0;
-        right: 300px;
+        right: 0px;
         height: 100vh;
-        width: 300px;
+        width: 100%;
         background-color: #e3e6f3;
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.01);
         padding: 80px 0 0 10px;
