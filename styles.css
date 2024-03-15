@@ -435,7 +435,32 @@ footer a:hover {
         
         
     }
+       #pro-container {
+        display: flex;
+        justify-content:center;
+        
+    }
+   
+    #product1 .pro-container {
+        display: flex;
+        justify-content: space-between;
+        padding-top: 5px;
+        flex-wrap: wrap;
+    }
     
+    #product1 .pro {
+        width: 13px;
+        min-width: 190px;
+        padding: 10px 12px;
+        border: 1px solid #cce7d0;
+        border-radius: 25px;
+        cursor: pointer;
+        box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+        margin: 15px 15px;
+        transition: 0.2s ease; /* Add transition effect for smooth hover */
+        position: relative;
+    }
+
    
 
 }
