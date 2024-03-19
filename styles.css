@@ -155,7 +155,7 @@ body {
 /* Banner */
 /* Define styles for the banner section */
 #ShopPic {
-    height: 70vh;
+    height: 65vh;
     width: 60%;
     margin: 10px auto;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -169,6 +169,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
+    height: 65vh;
     
     opacity: 0;
     transition: opacity 1s ease-in-out; /* Add transition effect for smooth image change */
